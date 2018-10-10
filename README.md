@@ -1,6 +1,8 @@
-# awesome-cryptoanarchy
+ # Awesome Cryptoanarchy
+
 🔬A list of ressources on cryptoanarchy
 
+<hr />
 
 ## Financial
 
