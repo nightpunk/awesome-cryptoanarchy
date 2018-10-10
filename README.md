@@ -23,7 +23,7 @@ Please help us, submit your pull request or send us an email : nightpunk@protonm
 
 ## Storage
 
-- [Moutain Duck](https://mountainduck.io/) - Mountain Duck lets you mount server and cloud storage as a disk on your comp.
+- [IPFS](https://ipfs.io/) - IPFS is a decentralized storage system.
 
 ## Physical
 
