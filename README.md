@@ -20,4 +20,9 @@
 - [Cryptomator](https://cryptomator.org/) - Cryptomator lets you encrypt and decrypt your files on the cloud platforms.
 
 ## Storage
+
 - [Moutain Duck](https://mountainduck.io/) - Mountain Duck lets you mount server and cloud storage as a disk on your comp.
+
+## Physical
+
+- [Dead Drops](https://www.deepdotweb.com/2018/04/21/tutorial-for-dead-droppers/) - Tutorial for Dead Droppers
