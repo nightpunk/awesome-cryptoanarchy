@@ -2,6 +2,8 @@
 
 🔬A list of ressources on cryptoanarchy
 
+Please help us, submit your pull request or send us an email : nightpunk@protonmail.com ([PGP](pgp.md))
+
 <hr />
 
 ## Financial
