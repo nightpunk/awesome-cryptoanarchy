@@ -24,7 +24,7 @@ Please help us, submit your pull request or send us an email : nightpunk@protonm
 ## Storage
 
 - [IPFS](https://ipfs.io/) - IPFS is a decentralized storage system.
-- [Cyberduck](https://cyberduck.io/) - Cyberduck lets you mount your cloud storages as drives on your computer.
+- [Cyberduck](https://cyberduck.io/) - Cyberduck is a libre server and cloud storage browser for Mac and Windows.
 
 ## Physical
 
