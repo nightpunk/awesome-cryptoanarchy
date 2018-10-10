@@ -29,3 +29,5 @@ Please help us, submit your pull request or send us an email : nightpunk@protonm
 ## Physical
 
 - [Dead Drops](https://www.deepdotweb.com/2018/04/21/tutorial-for-dead-droppers/) - Tutorial for Dead Droppers
+- [Privacy Enhancing Clothing](https://howwegettonext.com/how-to-dress-for-ultimate-privacy-498cdacd71d9-) - Get dressed like no camera could detect you
+
